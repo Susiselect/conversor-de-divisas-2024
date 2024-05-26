@@ -5,6 +5,12 @@ Primer challenge de programación con Java
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com/)
 
+## Requisitos
+
+- Java 8 o superior
+- [Gson Library](https://github.com/google/gson)
+- Este proyecto utiliza la API de [Exchange Rate API](https://www.exchangerate-api.com/) para obtener las tasas de cambio actuales.
+
 ## Descripción
 
 El **Conversor de Divisas** es una aplicación Java que permite convertir montos entre diferentes monedas utilizando la API de Exchange Rate. Este proyecto es ideal para aquellos que desean aprender a interactuar con APIs externas y manejar JSON en Java.
@@ -102,13 +108,14 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 ### Explicación del Contenido
 
 1. **Título y Badges**: Título del proyecto y badges para licencia y versión de Java.
-2. **Descripción**: Breve descripción del proyecto y sus características principales.
-3. **Características**: Lista de las funcionalidades principales del conversor.
-4. **Instalación**: Instrucciones claras sobre cómo clonar el repositorio y configurar la API key.
-5. **Uso**: Pasos para compilar y ejecutar la aplicación, junto con un ejemplo de cómo usarla.
-6. **Contribuciones**: Guía sobre cómo contribuir al proyecto.
-7. **Licencia**: Información sobre la licencia del proyecto.
-8. **Contacto**: Información de contacto para los usuarios que deseen más información o quieran colaborar.
+2. **Requisitos**: Herramientas necesarias para desarrollar el código.
+3. **Descripción**: Breve descripción del proyecto y sus características principales.
+4. **Características**: Lista de las funcionalidades principales del conversor.
+5. **Instalación**: Instrucciones claras sobre cómo clonar el repositorio y configurar la API key.
+6. **Uso**: Pasos para compilar y ejecutar la aplicación, junto con un ejemplo de cómo usarla.
+7. **Contribuciones**: Guía sobre cómo contribuir al proyecto.
+8. **Licencia**: Información sobre la licencia del proyecto.
+9. **Contacto**: Información de contacto para los usuarios que deseen más información o quieran colaborar.
 
 
 
